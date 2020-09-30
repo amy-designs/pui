@@ -1,15 +1,9 @@
-header {
-    text-align: center;
-}
 
-#todo-lists {
-    margin: 0 auto;
-    width: 80%;
-}
 
 body {
     margin: 0;
     color: teal;
+    font-family: 'Roboto', sans-serif;
 }
 
 /*********** HEADER ************/
@@ -19,6 +13,7 @@ header {
     padding: 10px;
     background-color: teal;
     color: white;
+    font-family: 'Roboto Slab', serif;
 }
 
 header a {
