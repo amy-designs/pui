@@ -21,6 +21,17 @@ header {
     color: white;
 }
 
+header a {
+    color: gold;
+    text-decoration: none;
+}
+
+.list a {
+    color: teal;
+    text-decoration: none;
+}
+
+
 h1 {
     margin: 0;
 }
